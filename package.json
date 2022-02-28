@@ -1,12 +1,12 @@
 {
-  "name": "jaylen-ozi-backup-bot",
+  "name": "anarchy_backup_bot",
   "version": "0.0.1",
-  "description": "ozi-backup",
-  "main": "ozi.js",
+  "description": "anarchy_backup",
+  "main": "anarchy.js",
   "scripts": {
-    "test": "node ozi.js"
+    "test": "node anarchy.js"
   },
-  "author": "jaylen-ozi",
+  "author": "anarchy-backup",
   "license": "MIT",
   "dependencies": {
     "discord-buttons": "^2.4.1",
