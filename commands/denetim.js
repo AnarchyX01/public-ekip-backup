@@ -1,5 +1,5 @@
 const Discord = require('discord.js')
-const { green } = require("../jaylen.json")
+const { green } = require("../anarchy.json")
 
 exports.run = async (client, message, args, embed) => {
 
