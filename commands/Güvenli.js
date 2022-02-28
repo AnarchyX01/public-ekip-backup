@@ -1,5 +1,5 @@
 const Discord = require('discord.js')
-const ayarlar = require('../jaylen.json');
+const ayarlar = require('../anarchy.json');
 const Database = require('../models/Güvenli.js');
 
 exports.run = async (client, message, args, prefix) => {
