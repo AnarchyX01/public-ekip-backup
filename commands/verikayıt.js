@@ -1,9 +1,9 @@
 const Discord = require('discord.js')
 const mongoose = require('mongoose');
-const ayarlar = require('../jaylen.json');
+const ayarlar = require('../anarchy.json');
 const RoleData = require('../models/role.js');
 const ChannelData = require('../models/Channel.js');
-const { green } = require("../jaylen.json")
+const { green } = require("../anarchy.json")
 
 exports.run = async (client, message, args) => {
 if (ayarlar.Owner.includes(message.author.id) === false) return message.channel.send(`**Bu komutu sadece \`Owner\` kullanabilir!**`);
