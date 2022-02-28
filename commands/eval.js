@@ -1,5 +1,5 @@
 const Discord = require('discord.js')
-const ayarlar = require('../jaylen.json');
+const ayarlar = require('../anarchy.json');
 
 exports.run = async (client, message, args) => {
 if (ayarlar.Owner.includes(message.author.id) === false) return message.channel.send(`**Bu komutu sadece \`JAYLEN\` kullanabilir!**`);
