@@ -1,12 +1,10 @@
-# Ozi Backup
-
-- 70 Star olunca kullanıcı token özellik eklerim starlarınızı bekliyorum yeni github hesabım.
+# Anarchy Backup
 - Sizlerle geliştirmiş olduğum backup botlarından biriyle tanıştırmak istiyorum.. 
 - Rol/Kanal Veri Kayıt ve tekrar oluşturma özelliklerine sahip gelişmiş bir backup bot.
 
 # Yapmanız gereken adımlar
 
-- Botumda bulunan jaylen.json kısmını doldurduktan sonra modüllerin yüklenmesi için npm i yapabilirsiniz botunuz hazır esenlikle kalın.
+- Botumda bulunan anarchy.json kısmını doldurduktan sonra modüllerin yüklenmesi için npm i yapabilirsiniz botunuz hazır esenlikle kalın.
 
 # Not 
 
