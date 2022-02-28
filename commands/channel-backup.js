@@ -1,7 +1,7 @@
 const { Discord, MessageEmbed } = require('discord.js');
 const ChannelData = require('../models/Channel.js');
-const ayarlar = require('../jaylen.json');
-const { green } = require("../jaylen.json")
+const ayarlar = require('../anarchy.json');
+const { green } = require("../anarchy.json")
 
 exports.run = async (client, message, args) => {
 
